@@ -15,6 +15,7 @@
 		82495DD51DF046FA0046F960 /* photoFilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82495DD41DF046FA0046F960 /* photoFilterTests.swift */; };
 		82495DE01DF046FA0046F960 /* photoFilterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82495DDF1DF046FA0046F960 /* photoFilterUITests.swift */; };
 		82495DEE1DF0475E0046F960 /* pepe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82495DED1DF0475E0046F960 /* pepe.jpg */; };
+		82495DF01DF050410046F960 /* food.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 82495DEF1DF050410046F960 /* food.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		82495DDF1DF046FA0046F960 /* photoFilterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photoFilterUITests.swift; sourceTree = "<group>"; };
 		82495DE11DF046FA0046F960 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82495DED1DF0475E0046F960 /* pepe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pepe.jpg; path = ../../../../Downloads/pepe.jpg; sourceTree = "<group>"; };
+		82495DEF1DF050410046F960 /* food.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = food.jpeg; path = ../../../../Downloads/food.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		82495DBE1DF046FA0046F960 /* photoFilter */ = {
 			isa = PBXGroup;
 			children = (
+				82495DEF1DF050410046F960 /* food.jpeg */,
 				82495DED1DF0475E0046F960 /* pepe.jpg */,
 				82495DBF1DF046FA0046F960 /* AppDelegate.swift */,
 				82495DC11DF046FA0046F960 /* ViewController.swift */,
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				82495DF01DF050410046F960 /* food.jpeg in Resources */,
 				82495DCA1DF046FA0046F960 /* LaunchScreen.storyboard in Resources */,
 				82495DEE1DF0475E0046F960 /* pepe.jpg in Resources */,
 				82495DC71DF046FA0046F960 /* Assets.xcassets in Resources */,
