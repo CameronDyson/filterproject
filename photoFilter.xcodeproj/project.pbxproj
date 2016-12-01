@@ -14,6 +14,7 @@
 		82495DCA1DF046FA0046F960 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82495DC81DF046FA0046F960 /* LaunchScreen.storyboard */; };
 		82495DD51DF046FA0046F960 /* photoFilterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82495DD41DF046FA0046F960 /* photoFilterTests.swift */; };
 		82495DE01DF046FA0046F960 /* photoFilterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82495DDF1DF046FA0046F960 /* photoFilterUITests.swift */; };
+		82495DEE1DF0475E0046F960 /* pepe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82495DED1DF0475E0046F960 /* pepe.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		82495DDB1DF046FA0046F960 /* photoFilterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = photoFilterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		82495DDF1DF046FA0046F960 /* photoFilterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = photoFilterUITests.swift; sourceTree = "<group>"; };
 		82495DE11DF046FA0046F960 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82495DED1DF0475E0046F960 /* pepe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = pepe.jpg; path = ../../../../Downloads/pepe.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		82495DBE1DF046FA0046F960 /* photoFilter */ = {
 			isa = PBXGroup;
 			children = (
+				82495DED1DF0475E0046F960 /* pepe.jpg */,
 				82495DBF1DF046FA0046F960 /* AppDelegate.swift */,
 				82495DC11DF046FA0046F960 /* ViewController.swift */,
 				82495DC31DF046FA0046F960 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				82495DCA1DF046FA0046F960 /* LaunchScreen.storyboard in Resources */,
+				82495DEE1DF0475E0046F960 /* pepe.jpg in Resources */,
 				82495DC71DF046FA0046F960 /* Assets.xcassets in Resources */,
 				82495DC51DF046FA0046F960 /* Main.storyboard in Resources */,
 			);
